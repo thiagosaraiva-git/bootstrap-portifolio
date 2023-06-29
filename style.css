@@ -1,0 +1,19 @@
+body {
+    background: url("img/bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.text-center img {
+    border-radius: 50% !important;
+    width: 200px !important;
+    margin: 50px
+}
+
+.card-group {
+    padding: 0px 150px !important;
+}
+
+.card {
+    margin-right: 5px;
+}
