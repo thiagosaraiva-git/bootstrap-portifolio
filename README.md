@@ -1,2 +1,2 @@
 # bootstrap-portifolio
-Project built to provide instructions on HTML, CSS and Bootstrap
+I designed and developed this project as part of BYJU'S Learning company's upskilling program, with the aim of teaching HTML, CSS and Bootstrap 5 to their teachers.
